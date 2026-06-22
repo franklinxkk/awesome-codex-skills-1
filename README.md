@@ -117,3 +117,5 @@ python scripts/validate_repo.py
 ## License
 
 This repository is licensed under the Apache License 2.0. See [LICENSE](./LICENSE).
+
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
